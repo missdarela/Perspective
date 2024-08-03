@@ -29,8 +29,8 @@ function reset() {
   rotateY.value = 0;
   rotateZ.value = 0;
   red.value = 255;
- green.value = 255);
- blue.value = 255);
+ green.value = 255;
+ blue.value = 255;
 }
 
 const copy = async () => {
